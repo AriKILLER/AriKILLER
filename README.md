@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AriKILLER
+# Hi there! 👋 I'm Arianna
 
 ![Banner](https://i.imgur.com/TuBannerPersonal.png)
 
@@ -10,6 +10,9 @@ I'm a DAW (Web App Development) student, passionate about technology and open so
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
 
 ## 📈 GitHub Stats
 ![AriKILLER GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriKILLER&show_icons=true&hide_title=true)
