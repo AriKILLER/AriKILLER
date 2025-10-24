@@ -15,7 +15,7 @@ I'm a DAW (Web App Development) student, passionate about technology and open so
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
 
 ## 📈 GitHub Stats
-![AriKILLER GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriKILLER&show_icons=true&hide_title=true)
+![AriKILLER GitHub Stats](https://github-readme-stats.vercel.app/api?username=AriKILLER&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
 
 ## 🌐 Latest Projects
 
