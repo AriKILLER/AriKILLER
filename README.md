@@ -21,7 +21,7 @@ I'm a DAW (Web App Development) student, passionate about technology and open so
 
 | Repository     | Description | Demo |
 |----------------|-------------|------|
-| [Task Manager(Work on progress)](https://github.com/AriKILLER/TASK-MANAGER)      | Task Manager for personal use | [Preview](https://arikiller.github.io/QR-Code-Challenge-FrontendMentor/) |
+| [Task Manager(Work on progress)](https://github.com/AriKILLER/TASK-MANAGER)      | Task Manager for personal use | [Preview](https://arikiller.github.io/TASK-MANAGER/) |
 | [Blog Preview Card](https://github.com/AriKILLER/Blog-Preview-Card)  | Blog Card challenge from Frontend Mentor | [Preview](https://arikiller.github.io/Blog-Preview-Card/) |
 | [Social Links Profile](https://github.com/AriKILLER/Social-Links-Profile) | Profile with all social links (not actually mine) | [Preview](https://arikiller.github.io/Social-Links-Profile/) |
 ---
